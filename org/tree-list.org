@@ -1,0 +1,1765 @@
+#+include: intro.org
+
+* Acanthaceae (1 genus, 1 species)
+** Avicennia (1 species)
+*** /Avicennia marina/
+* Alseuosmiaceae (2 genus, 2 species)
+** Periomphale (1 species)
+*** /Periomphale balansae/
+** Platyspermation (1 species)
+*** /Platyspermation crassifolium/
+* Amborellaceae (1 genus, 1 species)
+** Amborella (1 species)
+*** /Amborella trichopoda/
+* Anacardiaceae (3 genus, 11 species)
+** Euroschinus (7 species)
+*** /Euroschinus aoupiniensis/
+*** /Euroschinus elegans/
+*** /Euroschinus jaffrei/
+*** /Euroschinus obtusifolius/
+*** /Euroschinus rubromarginatus/
+*** /Euroschinus verrucosus/
+*** /Euroschinus vieillardii/
+** Pleiogynium (1 species)
+*** /Pleiogynium timoriense/
+** Semecarpus (3 species)
+*** /Semecarpus ater/
+*** /Semecarpus balansae/
+*** /Semecarpus neocaledonicus/
+* Annonaceae (4 genus, 7 species)
+** Goniothalamus (2 species)
+*** /Goniothalamus hmoope/
+*** /Goniothalamus obtusatus/
+** Huberantha (1 species)
+*** /Huberantha nitidissima/
+** Meiogyne (2 species)
+*** /Meiogyne baillonii/
+*** /Meiogyne lecardii/
+** Xylopia (2 species)
+*** /Xylopia dibaccata/
+*** /Xylopia vieillardii/
+* Apiaceae (1 genus, 2 species)
+** Apiopetalum (2 species)
+*** /Apiopetalum glabratum/
+*** /Apiopetalum velutinum/
+* Apocynaceae (8 genus, 32 species)
+** Alstonia (10 species)
+*** /Alstonia balansae/
+*** /Alstonia boulindaensis/
+*** /Alstonia costata/
+*** /Alstonia lanceolata/
+*** /Alstonia lanceolifera/
+*** /Alstonia lenormandii/
+*** /Alstonia odontophora/
+*** /Alstonia quaternata/
+*** /Alstonia sphaerocapitata/
+*** /Alstonia vieillardii/
+** Carissa (1 species)
+*** /Carissa spinarum/
+** Cerbera (2 species)
+*** /Cerbera manghas/
+*** /Cerbera odollam/
+** Cerberiopsis (3 species)
+*** /Cerberiopsis candelabra/
+*** /Cerberiopsis neriifolia/
+*** /Cerberiopsis obtusifolia/
+** Leichhardtia (1 species)
+*** /Leichhardtia koniamboensis/
+** Ochrosia (11 species)
+*** /Ochrosia balansae/
+*** /Ochrosia brevituba/
+*** /Ochrosia elliptica/
+*** /Ochrosia grandiflora/
+*** /Ochrosia inventorum/
+*** /Ochrosia lifuana/
+*** /Ochrosia miana/
+*** /Ochrosia oppositifolia/
+*** /Ochrosia sevenetii/
+*** /Ochrosia silvatica/
+*** /Ochrosia thiollierei/
+** Rauvolfia (2 species)
+*** /Rauvolfia balansae/
+*** /Rauvolfia semperflorens/
+** Tabernaemontana (2 species)
+*** /Tabernaemontana cerifera/
+*** /Tabernaemontana pandacaqui/
+* Aquifoliaceae (1 genus, 1 species)
+** Ilex (1 species)
+*** /Ilex sebertii/
+* Araliaceae (4 genus, 43 species)
+** Meryta (9 species)
+*** /Meryta balansae/
+*** /Meryta coriacea/
+*** /Meryta denhamii/
+*** /Meryta oxylaena/
+*** /Meryta pachycarpa/
+*** /Meryta pandanicarpa/
+*** /Meryta rivularis/
+*** /Meryta schizolaena/
+*** /Meryta sonchifolia/
+** Plerandra (16 species)
+*** /Plerandra baillonii/
+*** /Plerandra crassipes/
+*** /Plerandra elegantissima/
+*** /Plerandra elongata/
+*** /Plerandra emiliana/
+*** /Plerandra gabriellae/
+*** /Plerandra leptophylla/
+*** /Plerandra nono/
+*** /Plerandra osyana/
+*** /Plerandra pachyphylla/
+*** /Plerandra pancheri/
+*** /Plerandra plerandroides/
+*** /Plerandra polydactylis/
+*** /Plerandra reginae/
+*** /Plerandra veilloniorum/
+*** /Plerandra veitchii/
+** Polyscias (15 species)
+*** /Polyscias balansae/
+*** /Polyscias biformis/
+*** /Polyscias bracteata/
+*** /Polyscias cissodendron/
+*** /Polyscias crenata/
+*** /Polyscias dioica/
+*** /Polyscias guilfoylei/
+*** /Polyscias lecardii/
+*** /Polyscias mackeei/
+*** /Polyscias microbotrys/
+*** /Polyscias otopyrena/
+*** /Polyscias pancheri/
+*** /Polyscias scopoliae/
+*** /Polyscias vieillardii/
+*** /Polyscias weinmanniae/
+** Schefflera (3 species)
+*** /Schefflera candelabrum/
+*** /Schefflera pseudocandelabrum/
+*** /Schefflera vieillardii/
+* Araucariaceae (2 genus, 18 species)
+** Agathis (4 species)
+*** /Agathis lanceolata/
+*** /Agathis montana/
+*** /Agathis moorei/
+*** /Agathis ovata/
+** Araucaria (14 species)
+*** /Araucaria bernieri/
+*** /Araucaria biramulata/
+*** /Araucaria columnaris/
+*** /Araucaria goroensis/
+*** /Araucaria humboldtensis/
+*** /Araucaria laubenfelsii/
+*** /Araucaria luxurians/
+*** /Araucaria montana/
+*** /Araucaria muelleri/
+*** /Araucaria nemorosa/
+*** /Araucaria rulei/
+*** /Araucaria schmidii/
+*** /Araucaria scopulorum/
+*** /Araucaria subulata/
+* Arecaceae (10 genus, 40 species)
+** Actinokentia (2 species)
+*** /Actinokentia divaricata/
+*** /Actinokentia huerlimannii/
+** Basselinia (14 species)
+*** /Basselinia deplanchei/
+*** /Basselinia eriostachys/
+*** /Basselinia favieri/
+*** /Basselinia glabrata/
+*** /Basselinia gracilis/
+*** /Basselinia humboldtiana/
+*** /Basselinia iterata/
+*** /Basselinia moorei/
+*** /Basselinia pancheri/
+*** /Basselinia porphyrea/
+*** /Basselinia sordida/
+*** /Basselinia tomentosa/
+*** /Basselinia velutina/
+*** /Basselinia vestita/
+** Burretiokentia (5 species)
+*** /Burretiokentia dumasii/
+*** /Burretiokentia grandiflora/
+*** /Burretiokentia hapala/
+*** /Burretiokentia koghiensis/
+*** /Burretiokentia vieillardii/
+** Chambeyronia (3 species)
+*** /Chambeyronia houailouensis/
+*** /Chambeyronia lepidota/
+*** /Chambeyronia macrocarpa/
+** Clinosperma (4 species)
+*** /Clinosperma bracteale/
+*** /Clinosperma lanuginosa/
+*** /Clinosperma macrocarpa/
+*** /Clinosperma vaginata/
+** Cyphokentia (2 species)
+*** /Cyphokentia cerifera/
+*** /Cyphokentia macrostachya/
+** Cyphophoenix (4 species)
+*** /Cyphophoenix alba/
+*** /Cyphophoenix elegans/
+*** /Cyphophoenix fulcita/
+*** /Cyphophoenix nucele/
+** Cyphosperma (1 species)
+*** /Cyphosperma balansae/
+** Kentiopsis (4 species)
+*** /Kentiopsis magnifica/
+*** /Kentiopsis oliviformis/
+*** /Kentiopsis piersoniorum/
+*** /Kentiopsis pyriformis/
+** Saribus (1 species)
+*** /Saribus jeanneneyi/
+* Argophyllaceae (1 genus, 1 species)
+** Argophyllum (1 species)
+*** /Argophyllum nitidum/
+* Asparagaceae (1 genus, 1 species)
+** Cordyline (1 species)
+*** /Cordyline neocaledonica/
+* Atherospermataceae (1 genus, 1 species)
+** Nemuaron (1 species)
+*** /Nemuaron vieillardii/
+* Balanopaceae (1 genus, 7 species)
+** Balanops (7 species)
+*** /Balanops balansae/
+*** /Balanops microstachya/
+*** /Balanops oliviformis/
+*** /Balanops pachyphylla/
+*** /Balanops pancheri/
+*** /Balanops sparsifolia/
+*** /Balanops vieillardii/
+* Bignoniaceae (2 genus, 3 species)
+** Deplanchea (2 species)
+*** /Deplanchea sessilifolia/
+*** /Deplanchea speciosa/
+** Dolichandrone (1 species)
+*** /Dolichandrone spathacea/
+* Boraginaceae (2 genus, 4 species)
+** Cordia (3 species)
+*** /Cordia aspera/
+*** /Cordia dichotoma/
+*** /Cordia subcordata/
+** Heliotropium (1 species)
+*** /Heliotropium arboreum/
+* Burseraceae (1 genus, 4 species)
+** Canarium (4 species)
+*** /Canarium balansae/
+*** /Canarium oleiferum/
+*** /Canarium trifoliolatum/
+*** /Canarium whitei/
+* Calophyllaceae (2 genus, 3 species)
+** Calophyllum (2 species)
+*** /Calophyllum caledonicum/
+*** /Calophyllum inophyllum/
+** Mammea (1 species)
+*** /Mammea neurophylla/
+* Cannabaceae (2 genus, 4 species)
+** Celtis (2 species)
+*** /Celtis conferta/
+*** /Celtis paniculata/
+** Trema (2 species)
+*** /Trema cannabinum/
+*** /Trema orientale/
+* Cardiopteridaceae (1 genus, 2 species)
+** Citronella (2 species)
+*** /Citronella macrocarpa/
+*** /Citronella sarmentosa/
+* Casuarinaceae (2 genus, 11 species)
+** Casuarina (4 species)
+*** /Casuarina collina/
+*** /Casuarina equisetifolia/
+*** /Casuarina potamophila/
+*** /Casuarina teres/
+** Gymnostoma (7 species)
+*** /Gymnostoma chamaecyparis/
+*** /Gymnostoma deplancheanum/
+*** /Gymnostoma glaucescens/
+*** /Gymnostoma intermedium/
+*** /Gymnostoma leucodon/
+*** /Gymnostoma nodiflorum/
+*** /Gymnostoma poissonianum/
+* Celastraceae (7 genus, 17 species)
+** Cassine (1 species)
+*** /Cassine brachycremastra/
+** Denhamia (1 species)
+*** /Denhamia fournieri/
+** Dicarpellum (4 species)
+*** /Dicarpellum baillonianum/
+*** /Dicarpellum pancheri/
+*** /Dicarpellum paucisepalum/
+*** /Dicarpellum pronyense/
+** Elaeodendron (3 species)
+*** /Elaeodendron cunninghamii/
+*** /Elaeodendron curtipendulum/
+*** /Elaeodendron pininsulare/
+** Menepetalum (3 species)
+*** /Menepetalum cathoides/
+*** /Menepetalum salicifolium/
+*** /Menepetalum schlechteri/
+** Pleurostylia (1 species)
+*** /Pleurostylia opposita/
+** Salaciopsis (4 species)
+*** /Salaciopsis glomerata/
+*** /Salaciopsis megaphylla/
+*** /Salaciopsis neocaledonica/
+*** /Salaciopsis sparsiflora/
+* Chloranthaceae (1 genus, 2 species)
+** Ascarina (2 species)
+*** /Ascarina rubricaulis/
+*** /Ascarina solmsiana/
+* Chrysobalanaceae (1 genus, 5 species)
+** Hunga (5 species)
+*** /Hunga gerontogea/
+*** /Hunga lifouana/
+*** /Hunga mackeeana/
+*** /Hunga minutiflora/
+*** /Hunga rhamnoides/
+* Clusiaceae (2 genus, 13 species)
+** Garcinia (10 species)
+*** /Garcinia amplexicaulis/
+*** /Garcinia densiflora/
+*** /Garcinia hennecartii/
+*** /Garcinia mungotia/
+*** /Garcinia neglecta/
+*** /Garcinia pancheri/
+*** /Garcinia pedicellata/
+*** /Garcinia puat/
+*** /Garcinia vieillardii/
+*** /Garcinia virgata/
+** Montrouziera (3 species)
+*** /Montrouziera cauliflora/
+*** /Montrouziera gabriellae/
+*** /Montrouziera sphaeroidea/
+* Combretaceae (2 genus, 5 species)
+** Lumnitzera (2 species)
+*** /Lumnitzera littorea/
+*** /Lumnitzera racemosa/
+** Terminalia (3 species)
+*** /Terminalia catappa/
+*** /Terminalia cherrieri/
+*** /Terminalia novocaledonica/
+* Cornaceae (1 genus, 2 species)
+** Alangium (2 species)
+*** /Alangium salviifolium/
+*** /Alangium vitiense/
+* Corynocarpaceae (1 genus, 1 species)
+** Corynocarpus (1 species)
+*** /Corynocarpus dissimilis/
+* Cunoniaceae (7 genus, 71 species)
+** Codia (12 species)
+*** /Codia albicans/
+*** /Codia albifrons/
+*** /Codia belepensis/
+*** /Codia discolor/
+*** /Codia ferruginea/
+*** /Codia incrassata/
+*** /Codia jaffrei/
+*** /Codia mackeeana/
+*** /Codia montana/
+*** /Codia nitida/
+*** /Codia spatulata/
+*** /Codia triverticillata/
+** Cunonia (17 species)
+*** /Cunonia aoupiniensis/
+*** /Cunonia atrorubens/
+*** /Cunonia austrocaledonica/
+*** /Cunonia balansae/
+*** /Cunonia bopopensis/
+*** /Cunonia bullata/
+*** /Cunonia cerifera/
+*** /Cunonia deplanchei/
+*** /Cunonia lenormandii/
+*** /Cunonia linearisepala/
+*** /Cunonia montana/
+*** /Cunonia pterophylla/
+*** /Cunonia pulchella/
+*** /Cunonia purpurea/
+*** /Cunonia rotundifolia/
+*** /Cunonia varijuga/
+*** /Cunonia vieillardii/
+** Geissois (13 species)
+*** /Geissois balansae/
+*** /Geissois belema/
+*** /Geissois bradfordii/
+*** /Geissois hippocastaneifolia/
+*** /Geissois hirsuta/
+*** /Geissois lanceolata/
+*** /Geissois magnifica/
+*** /Geissois montana/
+*** /Geissois polyphylla/
+*** /Geissois pruinosa/
+*** /Geissois racemosa/
+*** /Geissois trifoliolata/
+*** /Geissois velutina/
+** Hooglandia (1 species)
+*** /Hooglandia ignambiensis/
+** Pancheria (18 species)
+*** /Pancheria alaternoides/
+*** /Pancheria beauverdiana/
+*** /Pancheria billardierei/
+*** /Pancheria brunhesii/
+*** /Pancheria calophylla/
+*** /Pancheria confusa/
+*** /Pancheria dognyensis/
+*** /Pancheria engleriana/
+*** /Pancheria gatopensis/
+*** /Pancheria hirsuta/
+*** /Pancheria humboldtiana/
+*** /Pancheria mcphersonii/
+*** /Pancheria multijuga/
+*** /Pancheria phillyreoides/
+*** /Pancheria reticulata/
+*** /Pancheria robusta/
+*** /Pancheria ternata/
+*** /Pancheria xaragurensis/
+** Spiraeanthemum (6 species)
+*** /Spiraeanthemum brongniartianum/
+*** /Spiraeanthemum collinum/
+*** /Spiraeanthemum ellipticum/
+*** /Spiraeanthemum meridionale/
+*** /Spiraeanthemum pedunculatum/
+*** /Spiraeanthemum pubescens/
+** Weinmannia (4 species)
+*** /Weinmannia dichotoma/
+*** /Weinmannia ouaiemensis/
+*** /Weinmannia paitensis/
+*** /Weinmannia serrata/
+* Cupressaceae (2 genus, 6 species)
+** Callitris (3 species)
+*** /Callitris neocaledonica/
+*** /Callitris pancheri/
+*** /Callitris sulcata/
+** Libocedrus (3 species)
+*** /Libocedrus austrocaledonica/
+*** /Libocedrus chevalieri/
+*** /Libocedrus yateensis/
+* Cycadaceae (1 genus, 1 species)
+** Cycas (1 species)
+*** /Cycas seemannii/
+* Dilleniaceae (1 genus, 22 species)
+** Hibbertia (22 species)
+*** /Hibbertia baudouinii/
+*** /Hibbertia bouletii/
+*** /Hibbertia comptonii/
+*** /Hibbertia deplancheana/
+*** /Hibbertia ebracteata/
+*** /Hibbertia emarginata/
+*** /Hibbertia favieri/
+*** /Hibbertia heterotricha/
+*** /Hibbertia lanceolata/
+*** /Hibbertia lucens/
+*** /Hibbertia margaretae/
+*** /Hibbertia moratii/
+*** /Hibbertia nana/
+*** /Hibbertia pancheri/
+*** /Hibbertia patula/
+*** /Hibbertia podocarpifolia/
+*** /Hibbertia pulchella/
+*** /Hibbertia rubescens/
+*** /Hibbertia tontoutensis/
+*** /Hibbertia trachyphylla/
+*** /Hibbertia vieillardii/
+*** /Hibbertia wagapii/
+* Ebenaceae (1 genus, 27 species)
+** Diospyros (27 species)
+*** /Diospyros balansae/
+*** /Diospyros brassica/
+*** /Diospyros calciphila/
+*** /Diospyros cherrieri/
+*** /Diospyros fasciculosa/
+*** /Diospyros flavocarpa/
+*** /Diospyros glans/
+*** /Diospyros hebecarpa/
+*** /Diospyros impolita/
+*** /Diospyros labillardierei/
+*** /Diospyros macrocarpa/
+*** /Diospyros margaretae/
+*** /Diospyros minimifolia/
+*** /Diospyros oubatchensis/
+*** /Diospyros pancheri/
+*** /Diospyros parviflora/
+*** /Diospyros perplexa/
+*** /Diospyros pustulata/
+*** /Diospyros revolutissima/
+*** /Diospyros rufotomentosa/
+*** /Diospyros tireliae/
+*** /Diospyros tridentata/
+*** /Diospyros trisulca/
+*** /Diospyros umbrosa/
+*** /Diospyros veillonii/
+*** /Diospyros vieillardii/
+*** /Diospyros yaouhensis/
+* Elaeocarpaceae (3 genus, 41 species)
+** Dubouzetia (5 species)
+*** /Dubouzetia acuminata/
+*** /Dubouzetia campanulata/
+*** /Dubouzetia caudiculata/
+*** /Dubouzetia confusa/
+*** /Dubouzetia elegans/
+** Elaeocarpus (28 species)
+*** /Elaeocarpus alaternoides/
+*** /Elaeocarpus baudouinii/
+*** /Elaeocarpus biflorus/
+*** /Elaeocarpus brachypodus/
+*** /Elaeocarpus bullatus/
+*** /Elaeocarpus castaneifolius/
+*** /Elaeocarpus colnettianus/
+*** /Elaeocarpus comptonii/
+*** /Elaeocarpus coumbouiensis/
+*** /Elaeocarpus dognyensis/
+*** /Elaeocarpus geminiflorus/
+*** /Elaeocarpus gordonii/
+*** /Elaeocarpus guillaumii/
+*** /Elaeocarpus gummatus/
+*** /Elaeocarpus hortensis/
+*** /Elaeocarpus kaalensis/
+*** /Elaeocarpus leratii/
+*** /Elaeocarpus moratii/
+*** /Elaeocarpus nodosus/
+*** /Elaeocarpus ovigerus/
+*** /Elaeocarpus rotundifolius/
+*** /Elaeocarpus seringii/
+*** /Elaeocarpus speciosus/
+*** /Elaeocarpus toninensis/
+*** /Elaeocarpus tremulus/
+*** /Elaeocarpus vieillardii/
+*** /Elaeocarpus weibelianus/
+*** /Elaeocarpus yateensis/
+** Sloanea (8 species)
+*** /Sloanea haplopoda/
+*** /Sloanea koghiensis/
+*** /Sloanea lepida/
+*** /Sloanea magnifolia/
+*** /Sloanea montana/
+*** /Sloanea ramiflora/
+*** /Sloanea raynaliana/
+*** /Sloanea suaveolens/
+* Ericaceae (3 genus, 6 species)
+** Dracophyllum (1 species)
+*** /Dracophyllum verticillatum/
+** Leucopogon (4 species)
+*** /Leucopogon cymbulae/
+*** /Leucopogon dammarifolius/
+*** /Leucopogon macrocarpus/
+*** /Leucopogon pancheri/
+** Styphelia (1 species)
+*** /Styphelia balansae/
+* Erythroxylaceae (1 genus, 1 species)
+** Erythroxylum (1 species)
+*** /Erythroxylum novocaledonicum/
+* Escalloniaceae (1 genus, 6 species)
+** Polyosma (6 species)
+*** /Polyosma brachystachys/
+*** /Polyosma discolor/
+*** /Polyosma leratii/
+*** /Polyosma pancheriana/
+*** /Polyosma spicata/
+*** /Polyosma subintegrifolia/
+* Euphorbiaceae (15 genus, 49 species)
+** Acalypha (3 species)
+*** /Acalypha balansae/
+*** /Acalypha grandis/
+*** /Acalypha pancheriana/
+** Alphandia (2 species)
+*** /Alphandia furfuracea/
+*** /Alphandia resinosa/
+** Baloghia (10 species)
+*** /Baloghia alternifolia/
+*** /Baloghia anisomera/
+*** /Baloghia balansae/
+*** /Baloghia brongniartii/
+*** /Baloghia buchholzii/
+*** /Baloghia bureavii/
+*** /Baloghia inophylla/
+*** /Baloghia montana/
+*** /Baloghia pininsularis/
+*** /Baloghia pulchella/
+** Bocquillonia (8 species)
+*** /Bocquillonia arborea/
+*** /Bocquillonia codonostylis/
+*** /Bocquillonia corneri/
+*** /Bocquillonia grandidens/
+*** /Bocquillonia lucidula/
+*** /Bocquillonia phenacostigma/
+*** /Bocquillonia sessiliflora/
+*** /Bocquillonia spicata/
+** Claoxylon (1 species)
+*** /Claoxylon insulanum/
+** Cleidion (9 species)
+*** /Cleidion claoxyloides/
+*** /Cleidion lasiophyllum/
+*** /Cleidion lochmios/
+*** /Cleidion macarangoides/
+*** /Cleidion macrophyllum/
+*** /Cleidion spathulatum/
+*** /Cleidion veillonii/
+*** /Cleidion verticillatum/
+*** /Cleidion vieillardii/
+** Cocconerion (2 species)
+*** /Cocconerion balansae/
+*** /Cocconerion minus/
+** Codiaeum (1 species)
+*** /Codiaeum peltatum/
+** Croton (1 species)
+*** /Croton insularis/
+** Excoecaria (1 species)
+*** /Excoecaria agallocha/
+** Fontainea (1 species)
+*** /Fontainea pancheri/
+** Homalanthus (3 species)
+*** /Homalanthus nutans/
+*** /Homalanthus repandus/
+*** /Homalanthus schlechteri/
+** Macaranga (5 species)
+*** /Macaranga alchorneoides/
+*** /Macaranga coriacea/
+*** /Macaranga corymbosa/
+*** /Macaranga vedeliana/
+*** /Macaranga vieillardii/
+** Mallotus (1 species)
+*** /Mallotus repandus/
+** Neoguillauminia (1 species)
+*** /Neoguillauminia cleopatra/
+* Fabaceae (16 genus, 33 species)
+** Acacia (2 species)
+*** /Acacia simplex/
+*** /Acacia spirorbis/
+** Albizia (1 species)
+*** /Albizia guillainii/
+** Archidendropsis (8 species)
+*** /Archidendropsis fournieri/
+*** /Archidendropsis fulgens/
+*** /Archidendropsis glandulosa/
+*** /Archidendropsis granulosa/
+*** /Archidendropsis lentiscifolia/
+*** /Archidendropsis macradenia/
+*** /Archidendropsis paivana/
+*** /Archidendropsis streptocarpa/
+** Arthroclianthus (1 species)
+*** /Arthroclianthus maximus/
+** Cassia (1 species)
+*** /Cassia artensis/
+** Castanospermum (1 species)
+*** /Castanospermum australe/
+** Cynometra (1 species)
+*** /Cynometra ramiflora/
+** Dendrolobium (2 species)
+*** /Dendrolobium arbuscula/
+*** /Dendrolobium umbellatum/
+** Erythrina (2 species)
+*** /Erythrina fusca/
+*** /Erythrina variegata/
+** Intsia (1 species)
+*** /Intsia bijuga/
+** Mezoneuron (2 species)
+*** /Mezoneuron baudouinii/
+*** /Mezoneuron montrouzieri/
+** Schleinitzia (1 species)
+*** /Schleinitzia insularum/
+** Serianthes (6 species)
+*** /Serianthes calycina/
+*** /Serianthes germainii/
+*** /Serianthes lifouensis/
+*** /Serianthes margaretae/
+*** /Serianthes petitiana/
+*** /Serianthes sachetae/
+** Sesbania (1 species)
+*** /Sesbania coccinea/
+** Sophora (1 species)
+*** /Sophora tomentosa/
+** Storckiella (2 species)
+*** /Storckiella neocaledonica/
+*** /Storckiella pancheri/
+* Gentianaceae (1 genus, 1 species)
+** Fagraea (1 species)
+*** /Fagraea berteroana/
+* Gesneriaceae (2 genus, 4 species)
+** Coronanthera (2 species)
+*** /Coronanthera pancheri/
+*** /Coronanthera sericea/
+** Depanthus (2 species)
+*** /Depanthus glaber/
+*** /Depanthus pubescens/
+* Goodeniaceae (1 genus, 5 species)
+** Scaevola (5 species)
+*** /Scaevola balansae/
+*** /Scaevola coccinea/
+*** /Scaevola cylindrica/
+*** /Scaevola erosa/
+*** /Scaevola macropyrena/
+* Hernandiaceae (2 genus, 3 species)
+** Gyrocarpus (1 species)
+*** /Gyrocarpus americanus/
+** Hernandia (2 species)
+*** /Hernandia cordigera/
+*** /Hernandia nymphaeifolia/
+* Lamiaceae (4 genus, 11 species)
+** Gmelina (4 species)
+*** /Gmelina evoluta/
+*** /Gmelina lignum-vitreum/
+*** /Gmelina magnifica/
+*** /Gmelina neocaledonica/
+** Oxera (5 species)
+*** /Oxera baladica/
+*** /Oxera coriacea/
+*** /Oxera rugosa/
+*** /Oxera sessilifolia/
+*** /Oxera sulfurea/
+** Premna (1 species)
+*** /Premna serratifolia/
+** Vitex (1 species)
+*** /Vitex trifolia/
+* Lauraceae (4 genus, 34 species)
+** Beilschmiedia (2 species)
+*** /Beilschmiedia neocaledonica/
+*** /Beilschmiedia oreophila/
+** Cryptocarya (19 species)
+*** /Cryptocarya aristata/
+*** /Cryptocarya bitriplinervia/
+*** /Cryptocarya chartacea/
+*** /Cryptocarya elliptica/
+*** /Cryptocarya gracilis/
+*** /Cryptocarya guillauminii/
+*** /Cryptocarya leptospermoides/
+*** /Cryptocarya lifuensis/
+*** /Cryptocarya longifolia/
+*** /Cryptocarya mackeei/
+*** /Cryptocarya macrocarpa/
+*** /Cryptocarya macrodesme/
+*** /Cryptocarya odorata/
+*** /Cryptocarya oubatchensis/
+*** /Cryptocarya phyllostemon/
+*** /Cryptocarya pluricostata/
+*** /Cryptocarya schmidii/
+*** /Cryptocarya transversa/
+*** /Cryptocarya velutinosa/
+** Endiandra (6 species)
+*** /Endiandra artensis/
+*** /Endiandra baillonii/
+*** /Endiandra lecardii/
+*** /Endiandra neocaledonica/
+*** /Endiandra polyneura/
+*** /Endiandra sebertii/
+** Litsea (7 species)
+*** /Litsea imbricata/
+*** /Litsea neocaledonica/
+*** /Litsea pentaflora/
+*** /Litsea ripidion/
+*** /Litsea spathuliformis/
+*** /Litsea triflora/
+*** /Litsea uniflora/
+* Lecythidaceae (1 genus, 5 species)
+** Barringtonia (5 species)
+*** /Barringtonia asiatica/
+*** /Barringtonia integrifolia/
+*** /Barringtonia longifolia/
+*** /Barringtonia neocaledonica/
+*** /Barringtonia racemosa/
+* Linaceae (1 genus, 1 species)
+** Hugonia (1 species)
+*** /Hugonia penicillanthemum/
+* Loganiaceae (2 genus, 10 species)
+** Geniostoma (9 species)
+*** /Geniostoma balansanum/
+*** /Geniostoma celastrineum/
+*** /Geniostoma densiflorum/
+*** /Geniostoma erythrospermum/
+*** /Geniostoma glaucescens/
+*** /Geniostoma mooreanum/
+*** /Geniostoma novae-caledoniae/
+*** /Geniostoma rupestre/
+*** /Geniostoma vestitum/
+** Neuburgia (1 species)
+*** /Neuburgia novocaledonica/
+* Lythraceae (2 genus, 3 species)
+** Pemphis (1 species)
+*** /Pemphis acidula/
+** Sonneratia (2 species)
+*** /Sonneratia alba/
+*** /Sonneratia caseolaris/
+* Malpighiaceae (1 genus, 1 species)
+** Acridocarpus (1 species)
+*** /Acridocarpus austrocaledonicus/
+* Malvaceae (7 genus, 33 species)
+** Acropogon (27 species)
+*** /Acropogon aoupiniensis/
+*** /Acropogon austrocaledonicus/
+*** /Acropogon bosseri/
+*** /Acropogon bullatus/
+*** /Acropogon calcicolus/
+*** /Acropogon chalopiniae/
+*** /Acropogon domatifer/
+*** /Acropogon dzumacensis/
+*** /Acropogon fatsioides/
+*** /Acropogon francii/
+*** /Acropogon grandiflorus/
+*** /Acropogon horarius/
+*** /Acropogon jaffrei/
+*** /Acropogon macrocarpus/
+*** /Acropogon margaretae/
+*** /Acropogon megaphyllus/
+*** /Acropogon merytifolius/
+*** /Acropogon mesophilus/
+*** /Acropogon moratianus/
+*** /Acropogon paagoumenensis/
+*** /Acropogon pilosus/
+*** /Acropogon sageniifolius/
+*** /Acropogon schefflerifolius/
+*** /Acropogon schistophilus/
+*** /Acropogon schumannianus/
+*** /Acropogon tireliae/
+*** /Acropogon veillonii/
+** Grewia (1 species)
+*** /Grewia crenata/
+** Heritiera (1 species)
+*** /Heritiera littoralis/
+** Hibiscus (1 species)
+*** /Hibiscus tiliaceus/
+** Maxwellia (1 species)
+*** /Maxwellia lepidota/
+** Melochia (1 species)
+*** /Melochia odorata/
+** Trichospermum (1 species)
+*** /Trichospermum inmac/
+* Meliaceae (5 genus, 13 species)
+** Aglaia (1 species)
+*** /Aglaia elaeagnoidea/
+** Anthocarapa (1 species)
+*** /Anthocarapa nitidula/
+** Didymocheton (8 species)
+*** /Didymocheton canalensis/
+*** /Didymocheton kouiriensis/
+*** /Didymocheton macranthus/
+*** /Didymocheton macrostachyus/
+*** /Didymocheton minutiflorus/
+*** /Didymocheton pachypodus/
+*** /Didymocheton roseus/
+*** /Didymocheton rufescens/
+** Dysoxylum (1 species)
+*** /Dysoxylum bijugum/
+** Xylocarpus (2 species)
+*** /Xylocarpus granatum/
+*** /Xylocarpus rumphii/
+* Metteniusaceae (1 genus, 1 species)
+** Apodytes (1 species)
+*** /Apodytes clusiifolia/
+* Monimiaceae (2 genus, 8 species)
+** Hedycarya (7 species)
+*** /Hedycarya baudouinii/
+*** /Hedycarya chrysophylla/
+*** /Hedycarya cupulata/
+*** /Hedycarya engleriana/
+*** /Hedycarya erythrocarpa/
+*** /Hedycarya parvifolia/
+*** /Hedycarya symplocoides/
+** Kibaropsis (1 species)
+*** /Kibaropsis caledonica/
+* Moraceae (3 genus, 33 species)
+** Ficus (30 species)
+*** /Ficus asperula/
+*** /Ficus auriculigera/
+*** /Ficus austrocaledonica/
+*** /Ficus barraui/
+*** /Ficus cataractorum/
+*** /Ficus crescentioides/
+*** /Ficus dzumacensis/
+*** /Ficus fraseri/
+*** /Ficus habrophylla/
+*** /Ficus heteroselis/
+*** /Ficus hurlimannii/
+*** /Ficus leiocarpa/
+*** /Ficus lifouensis/
+*** /Ficus maialis/
+*** /Ficus microtophora/
+*** /Ficus mutabilis/
+*** /Ficus nitidifolia/
+*** /Ficus obliqua/
+*** /Ficus otophora/
+*** /Ficus otophoroides/
+*** /Ficus pancheriana/
+*** /Ficus prolixa/
+*** /Ficus pteroporum/
+*** /Ficus racemigera/
+*** /Ficus scabra/
+*** /Ficus tinctoria/
+*** /Ficus versicolor/
+*** /Ficus vieillardiana/
+*** /Ficus virgata/
+*** /Ficus webbiana/
+** Paratrophis (1 species)
+*** /Paratrophis sclerophylla/
+** Sparattosyce (2 species)
+*** /Sparattosyce balansae/
+*** /Sparattosyce dioica/
+* Myodocarpaceae (2 genus, 14 species)
+** Delarbrea (6 species)
+*** /Delarbrea balansae/
+*** /Delarbrea collina/
+*** /Delarbrea harmsii/
+*** /Delarbrea longicarpa/
+*** /Delarbrea montana/
+*** /Delarbrea paradoxa/
+** Myodocarpus (8 species)
+*** /Myodocarpus crassifolius/
+*** /Myodocarpus fraxinifolius/
+*** /Myodocarpus gracilis/
+*** /Myodocarpus involucratus/
+*** /Myodocarpus lanceolatus/
+*** /Myodocarpus pinnatus/
+*** /Myodocarpus simplicifolius/
+*** /Myodocarpus vieillardii/
+* Myricaceae (1 genus, 1 species)
+** Canacomyrica (1 species)
+*** /Canacomyrica monticola/
+* Myrtaceae (16 genus, 146 species)
+** Archirhodomyrtus (1 species)
+*** /Archirhodomyrtus turbinata/
+** Arillastrum (1 species)
+*** /Arillastrum gummiferum/
+** Cloezia (2 species)
+*** /Cloezia artensis/
+*** /Cloezia floribunda/
+** Eugenia (21 species)
+*** /Eugenia balansae/
+*** /Eugenia brongniartiana/
+*** /Eugenia bullata/
+*** /Eugenia daaouiensis/
+*** /Eugenia daenikeri/
+*** /Eugenia gacognei/
+*** /Eugenia grisiana/
+*** /Eugenia horizontalis/
+*** /Eugenia hurlimannii/
+*** /Eugenia mackeeana/
+*** /Eugenia mendute/
+*** /Eugenia mouensis/
+*** /Eugenia noumeensis/
+*** /Eugenia ovigera/
+*** /Eugenia paludosa/
+*** /Eugenia poimbailensis/
+*** /Eugenia pterocarpa/
+*** /Eugenia sarasinii/
+*** /Eugenia stricta/
+*** /Eugenia styphelioides/
+*** /Eugenia veillonii/
+** Gossia (10 species)
+*** /Gossia alaternoides/
+*** /Gossia aphthosa/
+*** /Gossia clusioides/
+*** /Gossia colnettiana/
+*** /Gossia diversifolia/
+*** /Gossia kuakuensis/
+*** /Gossia nigripes/
+*** /Gossia pancheri/
+*** /Gossia vieillardii/
+*** /Gossia virotii/
+** Kanakomyrtus (3 species)
+*** /Kanakomyrtus longipetiolata/
+*** /Kanakomyrtus prominens/
+*** /Kanakomyrtus revoluta/
+** Melaleuca (3 species)
+*** /Melaleuca dawsonii/
+*** /Melaleuca pancheri/
+*** /Melaleuca quinquenervia/
+** Metrosideros (15 species)
+*** /Metrosideros brevistylis/
+*** /Metrosideros cacuminum/
+*** /Metrosideros dolichandra/
+*** /Metrosideros elegans/
+*** /Metrosideros engleriana/
+*** /Metrosideros humboldtiana/
+*** /Metrosideros laurifolia/
+*** /Metrosideros microphylla/
+*** /Metrosideros nitida/
+*** /Metrosideros operculata/
+*** /Metrosideros oreomyrtus/
+*** /Metrosideros paniensis/
+*** /Metrosideros porphyrea/
+*** /Metrosideros punctata/
+*** /Metrosideros tardiflora/
+** Pleurocalyptus (2 species)
+*** /Pleurocalyptus austrocaledonicus/
+*** /Pleurocalyptus pancheri/
+** Rhodomyrtus (1 species)
+*** /Rhodomyrtus locellata/
+** Sannantha (2 species)
+*** /Sannantha pinifolia/
+*** /Sannantha virgata/
+** Syzygium (53 species)
+*** /Syzygium acre/
+*** /Syzygium aggregatum/
+*** /Syzygium amieuense/
+*** /Syzygium aoupinianum/
+*** /Syzygium arboreum/
+*** /Syzygium auriculatum/
+*** /Syzygium austrocaledonicum/
+*** /Syzygium baladense/
+*** /Syzygium balansae/
+*** /Syzygium baudouinii/
+*** /Syzygium brachycalyx/
+*** /Syzygium brevioperculatum/
+*** /Syzygium brevipes/
+*** /Syzygium brongniartii/
+*** /Syzygium bullatum/
+*** /Syzygium capillaceum/
+*** /Syzygium conceptionis/
+*** /Syzygium dawsonianum/
+*** /Syzygium deplanchei/
+*** /Syzygium francii/
+*** /Syzygium frutescens/
+*** /Syzygium guillauminii/
+*** /Syzygium ignambiense/
+*** /Syzygium koghianum/
+*** /Syzygium koumacense/
+*** /Syzygium lateriflorum/
+*** /Syzygium lecardii/
+*** /Syzygium lifuanum/
+*** /Syzygium longifolium/
+*** /Syzygium macranthum/
+*** /Syzygium micans/
+*** /Syzygium mouanum/
+*** /Syzygium multipetalum/
+*** /Syzygium neocaledonicum/
+*** /Syzygium neoeugenioides/
+*** /Syzygium neolaurifolium/
+*** /Syzygium pancheri/
+*** /Syzygium paniense/
+*** /Syzygium parvicarpum/
+*** /Syzygium poyanum/
+*** /Syzygium pseudomalaccense/
+*** /Syzygium pterocalyx/
+*** /Syzygium pterocarpum/
+*** /Syzygium rhopalanthum/
+*** /Syzygium tenuiflorum/
+*** /Syzygium toninense/
+*** /Syzygium tontoutaense/
+*** /Syzygium tripetalum/
+*** /Syzygium veillonii/
+*** /Syzygium vieillardii/
+*** /Syzygium viriosum/
+*** /Syzygium virotii/
+*** /Syzygium wagapense/
+** Tristaniopsis (7 species)
+*** /Tristaniopsis capitulata/
+*** /Tristaniopsis guillainii/
+*** /Tristaniopsis lucida/
+*** /Tristaniopsis minutiflora/
+*** /Tristaniopsis polyandra/
+*** /Tristaniopsis reticulata/
+*** /Tristaniopsis vieillardii/
+** Uromyrtus (10 species)
+*** /Uromyrtus artensis/
+*** /Uromyrtus billardierei/
+*** /Uromyrtus curvipes/
+*** /Uromyrtus emarginata/
+*** /Uromyrtus gomonenensis/
+*** /Uromyrtus neomyrtoides/
+*** /Uromyrtus ngoyensis/
+*** /Uromyrtus paulotchensis/
+*** /Uromyrtus supraaxillaris/
+*** /Uromyrtus thymifolia/
+** Xanthomyrtus (1 species)
+*** /Xanthomyrtus kanalaensis/
+** Xanthostemon (14 species)
+*** /Xanthostemon aurantiacus/
+*** /Xanthostemon carlii/
+*** /Xanthostemon ferrugineus/
+*** /Xanthostemon glaucus/
+*** /Xanthostemon grisei/
+*** /Xanthostemon laurinus/
+*** /Xanthostemon macrophyllus/
+*** /Xanthostemon multiflorus/
+*** /Xanthostemon pubescens/
+*** /Xanthostemon ruber/
+*** /Xanthostemon sebertii/
+*** /Xanthostemon sulfureus/
+*** /Xanthostemon velutinus/
+*** /Xanthostemon vieillardii/
+* Nothofagaceae (1 genus, 5 species)
+** Nothofagus (5 species)
+*** /Nothofagus aequilateralis/
+*** /Nothofagus balansae/
+*** /Nothofagus baumanniae/
+*** /Nothofagus codonandra/
+*** /Nothofagus discoidea/
+* Nyctaginaceae (2 genus, 4 species)
+** Ceodes (2 species)
+*** /Ceodes artensis/
+*** /Ceodes gigantocarpa/
+** Pisonia (2 species)
+*** /Pisonia aculeata/
+*** /Pisonia grandis/
+* Olacaceae (2 genus, 2 species)
+** Olax (1 species)
+*** /Olax hypoleuca/
+** Ximenia (1 species)
+*** /Ximenia americana/
+* Oleaceae (3 genus, 6 species)
+** Chionanthus (2 species)
+*** /Chionanthus brachystachys/
+*** /Chionanthus pedunculatus/
+** Olea (1 species)
+*** /Olea paniculata/
+** Osmanthus (3 species)
+*** /Osmanthus austrocaledonicus/
+*** /Osmanthus cymosus/
+*** /Osmanthus monticola/
+* Oncothecaceae (1 genus, 2 species)
+** Oncotheca (2 species)
+*** /Oncotheca balansae/
+*** /Oncotheca humboldtiana/
+* Pandanaceae (1 genus, 13 species)
+** Pandanus (13 species)
+*** /Pandanus altissimus/
+*** /Pandanus balansae/
+*** /Pandanus bernardii/
+*** /Pandanus clandestinus/
+*** /Pandanus dubius/
+*** /Pandanus globatus/
+*** /Pandanus lacuum/
+*** /Pandanus letocartiorum/
+*** /Pandanus pancheri/
+*** /Pandanus recavisaxosus/
+*** /Pandanus sphaerocephalus/
+*** /Pandanus tectorius/
+*** /Pandanus verecundus/
+* Paracryphiaceae (3 genus, 12 species)
+** Paracryphia (1 species)
+*** /Paracryphia alticola/
+** Quintinia (5 species)
+*** /Quintinia hyehenensis/
+*** /Quintinia major/
+*** /Quintinia media/
+*** /Quintinia minor/
+*** /Quintinia sessiliflora/
+** Sphenostemon (6 species)
+*** /Sphenostemon balansae/
+*** /Sphenostemon comptonii/
+*** /Sphenostemon oppositifolius/
+*** /Sphenostemon pachycladus/
+*** /Sphenostemon thibaudii/
+*** /Sphenostemon tireliae/
+* Phellinaceae (1 genus, 9 species)
+** Phelline (9 species)
+*** /Phelline barrierei/
+*** /Phelline billardierei/
+*** /Phelline brachyphylla/
+*** /Phelline comosa/
+*** /Phelline dumbeensis/
+*** /Phelline erubescens/
+*** /Phelline gracilior/
+*** /Phelline lucida/
+*** /Phelline macrophylla/
+* Phyllanthaceae (5 genus, 18 species)
+** Antidesma (1 species)
+*** /Antidesma messianianum/
+** Bischofia (1 species)
+*** /Bischofia javanica/
+** Breynia (1 species)
+*** /Breynia disticha/
+** Cleistanthus (1 species)
+*** /Cleistanthus stipitatus/
+** Phyllanthus (14 species)
+*** /Phyllanthus billardierei/
+*** /Phyllanthus calcicola/
+*** /Phyllanthus caledonicus/
+*** /Phyllanthus caudatus/
+*** /Phyllanthus ciccoides/
+*** /Phyllanthus comptonii/
+*** /Phyllanthus deplanchei/
+*** /Phyllanthus kanalensis/
+*** /Phyllanthus koghiensis/
+*** /Phyllanthus mangenotii/
+*** /Phyllanthus montrouzieri/
+*** /Phyllanthus polygynus/
+*** /Phyllanthus pterocladus/
+*** /Phyllanthus tireliae/
+* Picrodendraceae (2 genus, 11 species)
+** Austrobuxus (10 species)
+*** /Austrobuxus brevipes/
+*** /Austrobuxus carunculatus/
+*** /Austrobuxus clusiaceus/
+*** /Austrobuxus cracens/
+*** /Austrobuxus cuneatus/
+*** /Austrobuxus mandjelicus/
+*** /Austrobuxus montis-do/
+*** /Austrobuxus pauciflorus/
+*** /Austrobuxus rubiginosus/
+*** /Austrobuxus vieillardii/
+** Scagea (1 species)
+*** /Scagea depauperata/
+* Pittosporaceae (1 genus, 33 species)
+** Pittosporum (33 species)
+*** /Pittosporum aliferum/
+*** /Pittosporum artense/
+*** /Pittosporum bouletii/
+*** /Pittosporum brevispinum/
+*** /Pittosporum cherrieri/
+*** /Pittosporum coccineum/
+*** /Pittosporum collinum/
+*** /Pittosporum deplanchei/
+*** /Pittosporum dzumacense/
+*** /Pittosporum gatopense/
+*** /Pittosporum gracile/
+*** /Pittosporum heckelii/
+*** /Pittosporum hematomallum/
+*** /Pittosporum leratii/
+*** /Pittosporum letocartiorum/
+*** /Pittosporum mackeei/
+*** /Pittosporum malaxanii/
+*** /Pittosporum muricatum/
+*** /Pittosporum obovatum/
+*** /Pittosporum oreophilum/
+*** /Pittosporum ornatum/
+*** /Pittosporum oubatchense/
+*** /Pittosporum pancheri/
+*** /Pittosporum paniense/
+*** /Pittosporum poueboense/
+*** /Pittosporum poumense/
+*** /Pittosporum pronyense/
+*** /Pittosporum scythophyllum/
+*** /Pittosporum simsonii/
+*** /Pittosporum sylvaticum/
+*** /Pittosporum tanianum/
+*** /Pittosporum verrucosum/
+*** /Pittosporum xanthanthum/
+* Podocarpaceae (7 genus, 14 species)
+** Acmopyle (1 species)
+*** /Acmopyle pancheri/
+** Dacrycarpus (1 species)
+*** /Dacrycarpus vieillardii/
+** Dacrydium (4 species)
+*** /Dacrydium araucarioides/
+*** /Dacrydium balansae/
+*** /Dacrydium guillauminii/
+*** /Dacrydium lycopodioides/
+** Falcatifolium (1 species)
+*** /Falcatifolium taxoides/
+** Podocarpus (4 species)
+*** /Podocarpus longifoliolatus/
+*** /Podocarpus lucienii/
+*** /Podocarpus polyspermus/
+*** /Podocarpus sylvestris/
+** Prumnopitys (1 species)
+*** /Prumnopitys ferruginoides/
+** Retrophyllum (2 species)
+*** /Retrophyllum comptonii/
+*** /Retrophyllum minus/
+* Primulaceae (2 genus, 27 species)
+** Myrsine (12 species)
+*** /Myrsine arborea/
+*** /Myrsine asymmetrica/
+*** /Myrsine citrifolia/
+*** /Myrsine diminuta/
+*** /Myrsine discocarpa/
+*** /Myrsine lecardii/
+*** /Myrsine memaoyaensis/
+*** /Myrsine modesta/
+*** /Myrsine novocaledonica/
+*** /Myrsine oblanceolata/
+*** /Myrsine ovicarpa/
+*** /Myrsine parvicarpa/
+** Tapeinosperma (15 species)
+*** /Tapeinosperma campanula/
+*** /Tapeinosperma deflexum/
+*** /Tapeinosperma glandulosum/
+*** /Tapeinosperma gracile/
+*** /Tapeinosperma minutum/
+*** /Tapeinosperma nectandroides/
+*** /Tapeinosperma nitidum/
+*** /Tapeinosperma oblongifolium/
+*** /Tapeinosperma pancheri/
+*** /Tapeinosperma poueboense/
+*** /Tapeinosperma robustum/
+*** /Tapeinosperma rubidum/
+*** /Tapeinosperma vestitum/
+*** /Tapeinosperma vieillardii/
+*** /Tapeinosperma wagapense/
+* Proteaceae (8 genus, 31 species)
+** Beauprea (5 species)
+*** /Beauprea asplenioides/
+*** /Beauprea balansae/
+*** /Beauprea comptonii/
+*** /Beauprea filipes/
+*** /Beauprea spathulifolia/
+** Garnieria (1 species)
+*** /Garnieria spathulifolia/
+** Grevillea (5 species)
+*** /Grevillea deplanchei/
+*** /Grevillea exul/
+*** /Grevillea gillivrayi/
+*** /Grevillea meisneri/
+*** /Grevillea vuniana/
+** Kermadecia (4 species)
+*** /Kermadecia brinoniae/
+*** /Kermadecia pronyensis/
+*** /Kermadecia rotundifolia/
+*** /Kermadecia sinuata/
+** Knightia (2 species)
+*** /Knightia deplanchei/
+*** /Knightia strobilina/
+** Sleumerodendron (1 species)
+*** /Sleumerodendron austrocaledonicum/
+** Stenocarpus (8 species)
+*** /Stenocarpus comptonii/
+*** /Stenocarpus dumbeensis/
+*** /Stenocarpus heterophyllus/
+*** /Stenocarpus milnei/
+*** /Stenocarpus tremuloides/
+*** /Stenocarpus trinervis/
+*** /Stenocarpus umbelliferus/
+*** /Stenocarpus villosus/
+** Virotia (5 species)
+*** /Virotia francii/
+*** /Virotia leptophylla/
+*** /Virotia neurophylla/
+*** /Virotia rousselii/
+*** /Virotia vieillardii/
+* Putranjivaceae (1 genus, 1 species)
+** Drypetes (1 species)
+*** /Drypetes deplanchei/
+* Rhamnaceae (4 genus, 4 species)
+** Alphitonia (1 species)
+*** /Alphitonia erubescens/
+** Emmenosperma (1 species)
+*** /Emmenosperma pancherianum/
+** Jaffrea (1 species)
+*** /Jaffrea xerocarpa/
+** Rhamnella (1 species)
+*** /Rhamnella vitiensis/
+* Rhizophoraceae (4 genus, 8 species)
+** Bruguiera (1 species)
+*** /Bruguiera gymnorhiza/
+** Ceriops (1 species)
+*** /Ceriops tagal/
+** Crossostylis (3 species)
+*** /Crossostylis grandiflora/
+*** /Crossostylis multiflora/
+*** /Crossostylis sebertii/
+** Rhizophora (3 species)
+*** /Rhizophora apiculata/
+*** /Rhizophora samoensis/
+*** /Rhizophora stylosa/
+* Rubiaceae (21 genus, 59 species)
+** Aidia (2 species)
+*** /Aidia congesta/
+*** /Aidia vieillardii/
+** Atractocarpus (3 species)
+*** /Atractocarpus bracteatus/
+*** /Atractocarpus heterophyllus/
+*** /Atractocarpus pterocarpon/
+** Bikkia (1 species)
+*** /Bikkia pancheri/
+** Coelospermum (1 species)
+*** /Coelospermum fragrans/
+** Cyclophyllum (2 species)
+*** /Cyclophyllum merrillianum/
+*** /Cyclophyllum tenuipes/
+** Eumachia (1 species)
+*** /Eumachia collina/
+** Gardenia (4 species)
+*** /Gardenia aubryi/
+*** /Gardenia colnettiana/
+*** /Gardenia mollis/
+*** /Gardenia oudiepe/
+** Guettarda (14 species)
+*** /Guettarda artensis/
+*** /Guettarda baladensis/
+*** /Guettarda fusca/
+*** /Guettarda glabrescens/
+*** /Guettarda heterosepala/
+*** /Guettarda humboldtensis/
+*** /Guettarda hypolasia/
+*** /Guettarda mephitica/
+*** /Guettarda ngoyensis/
+*** /Guettarda speciosa/
+*** /Guettarda splendens/
+*** /Guettarda trimera/
+*** /Guettarda vieillardii/
+*** /Guettarda wagapensis/
+** Guettardella (2 species)
+*** /Guettardella ioensis/
+*** /Guettardella rhamnoides/
+** Gynochthodes (1 species)
+*** /Gynochthodes decipiens/
+** Ixora (6 species)
+*** /Ixora cauliflora/
+*** /Ixora collina/
+*** /Ixora comptonii/
+*** /Ixora francii/
+*** /Ixora margaretae/
+*** /Ixora oligantha/
+** Normandia (1 species)
+*** /Normandia neocaledonica/
+** Pavetta (1 species)
+*** /Pavetta opulina/
+** Psychotria (5 species)
+*** /Psychotria ammericola/
+*** /Psychotria calothyrsa/
+*** /Psychotria canalensis/
+*** /Psychotria roseotincta/
+*** /Psychotria schlechteriana/
+** Psydrax (2 species)
+*** /Psydrax odorata/
+*** /Psydrax paradoxus/
+** Randia (3 species)
+*** /Randia nigricans/
+*** /Randia pseudoterminalis/
+*** /Randia sezitat/
+** Scyphiphora (1 species)
+*** /Scyphiphora hydrophylacea/
+** Tarenna (1 species)
+*** /Tarenna sambucina/
+** Thiollierea (5 species)
+*** /Thiollierea lenormandii/
+*** /Thiollierea macrophylla/
+*** /Thiollierea montana/
+*** /Thiollierea pachyphylla/
+*** /Thiollierea rigaultii/
+** Timonius (1 species)
+*** /Timonius platycarpus/
+** Tinadendron (2 species)
+*** /Tinadendron kajewskii/
+*** /Tinadendron noumeanum/
+* Rutaceae (17 genus, 38 species)
+** Acronychia (1 species)
+*** /Acronychia laevis/
+** Citrus (3 species)
+*** /Citrus neocaledonica/
+*** /Citrus oxanthera/
+*** /Citrus undulata/
+** Comptonella (6 species)
+*** /Comptonella baudouinii/
+*** /Comptonella drupacea/
+*** /Comptonella lactea/
+*** /Comptonella microcarpa/
+*** /Comptonella oreophila/
+*** /Comptonella sessilifoliola/
+** Crossosperma (2 species)
+*** /Crossosperma cauliflora/
+*** /Crossosperma velutina/
+** Dutailliopsis (1 species)
+*** /Dutailliopsis gordonii/
+** Dutaillyea (2 species)
+*** /Dutaillyea amosensis/
+*** /Dutaillyea trifoliolata/
+** Flindersia (1 species)
+*** /Flindersia fournieri/
+** Geijera (2 species)
+*** /Geijera balansae/
+*** /Geijera salicifolia/
+** Halfordia (1 species)
+*** /Halfordia kendack/
+** Melicope (3 species)
+*** /Melicope lasioneura/
+*** /Melicope triphylla/
+*** /Melicope vieillardii/
+** Micromelum (1 species)
+*** /Micromelum minutum/
+** Murraya (1 species)
+*** /Murraya crenulata/
+** Myrtopsis (1 species)
+*** /Myrtopsis myrtoidea/
+** Oxanthera (1 species)
+*** /Oxanthera brevipes/
+** Picrella (3 species)
+*** /Picrella glandulosa/
+*** /Picrella ignambiensis/
+*** /Picrella trifoliata/
+** Sarcomelicope (5 species)
+*** /Sarcomelicope argyrophylla/
+*** /Sarcomelicope follicularis/
+*** /Sarcomelicope glauca/
+*** /Sarcomelicope leiocarpa/
+*** /Sarcomelicope simplicifolia/
+** Zanthoxylum (4 species)
+*** /Zanthoxylum albiflorum/
+*** /Zanthoxylum neocaledonicum/
+*** /Zanthoxylum sarasinii/
+*** /Zanthoxylum schlechteri/
+* Salicaceae (3 genus, 34 species)
+** Casearia (3 species)
+*** /Casearia deplanchei/
+*** /Casearia kaalaensis/
+*** /Casearia puberula/
+** Homalium (14 species)
+*** /Homalium austrocaledonicum/
+*** /Homalium betulifolium/
+*** /Homalium buxifolium/
+*** /Homalium decurrens/
+*** /Homalium deplanchei/
+*** /Homalium francii/
+*** /Homalium guillainii/
+*** /Homalium intermedium/
+*** /Homalium leratiorum/
+*** /Homalium mathieuanum/
+*** /Homalium polystachyum/
+*** /Homalium rubiginosum/
+*** /Homalium serratum/
+*** /Homalium sleumerianum/
+** Xylosma (17 species)
+*** /Xylosma capillipes/
+*** /Xylosma cordifolia/
+*** /Xylosma grossecrenata/
+*** /Xylosma guillauminii/
+*** /Xylosma kaalaensis/
+*** /Xylosma koghiensis/
+*** /Xylosma lifuana/
+*** /Xylosma mandjeliana/
+*** /Xylosma molesta/
+*** /Xylosma peltata/
+*** /Xylosma planchonellifolia/
+*** /Xylosma pseudocoriacea/
+*** /Xylosma reticulata/
+*** /Xylosma rivularis/
+*** /Xylosma serpentina/
+*** /Xylosma trichostemona/
+*** /Xylosma vincentii/
+* Santalaceae (3 genus, 7 species)
+** Amphorogyne (3 species)
+*** /Amphorogyne celastroides/
+*** /Amphorogyne spicata/
+*** /Amphorogyne staufferi/
+** Exocarpos (3 species)
+*** /Exocarpos clavatus/
+*** /Exocarpos neocaledonicus/
+*** /Exocarpos phyllanthoides/
+** Santalum (1 species)
+*** /Santalum austrocaledonicum/
+* Sapindaceae (12 genus, 64 species)
+** Alectryon (1 species)
+*** /Alectryon carinatus/
+** Cossinia (1 species)
+*** /Cossinia trifoliata/
+** Cupaniopsis (27 species)
+*** /Cupaniopsis apiocarpa/
+*** /Cupaniopsis azantha/
+*** /Cupaniopsis chytradenia/
+*** /Cupaniopsis crassivalvis/
+*** /Cupaniopsis fruticosa/
+*** /Cupaniopsis glabra/
+*** /Cupaniopsis globosa/
+*** /Cupaniopsis glomeriflora/
+*** /Cupaniopsis grandiflora/
+*** /Cupaniopsis grisea/
+*** /Cupaniopsis hypodermatica/
+*** /Cupaniopsis inoplea/
+*** /Cupaniopsis mackeeana/
+*** /Cupaniopsis macrocarpa/
+*** /Cupaniopsis megalocarpa/
+*** /Cupaniopsis mouana/
+*** /Cupaniopsis myrmoctona/
+*** /Cupaniopsis oedipoda/
+*** /Cupaniopsis pennelii/
+*** /Cupaniopsis petiolulata/
+*** /Cupaniopsis phalacrocarpa/
+*** /Cupaniopsis rosea/
+*** /Cupaniopsis squamosa/
+*** /Cupaniopsis subfalcata/
+*** /Cupaniopsis sylvatica/
+*** /Cupaniopsis tontoutensis/
+*** /Cupaniopsis trigonocarpa/
+** Dodonaea (1 species)
+*** /Dodonaea viscosa/
+** Elattostachys (3 species)
+*** /Elattostachys apetala/
+*** /Elattostachys dzumacensis/
+*** /Elattostachys incisa/
+** Gongrodiscus (3 species)
+*** /Gongrodiscus bilocularis/
+*** /Gongrodiscus parvifolius/
+*** /Gongrodiscus sufferrugineus/
+** Guioa (7 species)
+*** /Guioa crenata/
+*** /Guioa crenulata/
+*** /Guioa glauca/
+*** /Guioa microsepala/
+*** /Guioa ovalis/
+*** /Guioa pectinata/
+*** /Guioa villosa/
+** Harpullia (1 species)
+*** /Harpullia austrocaledonica/
+** Lepidocupania (3 species)
+*** /Lepidocupania arcuata/
+*** /Lepidocupania gracilipes/
+*** /Lepidocupania lepidota/
+** Neoarytera (4 species)
+*** /Neoarytera chartacea/
+*** /Neoarytera collina/
+*** /Neoarytera nekorensis/
+*** /Neoarytera neoebudensis/
+** Podonephelium (9 species)
+*** /Podonephelium concolor/
+*** /Podonephelium cristagalli/
+*** /Podonephelium davidsonii/
+*** /Podonephelium gongrocarpum/
+*** /Podonephelium homei/
+*** /Podonephelium pachycaule/
+*** /Podonephelium parvifolium/
+*** /Podonephelium plicatum/
+*** /Podonephelium subaequilaterum/
+** Storthocalyx (4 species)
+*** /Storthocalyx chryseus/
+*** /Storthocalyx corymbosus/
+*** /Storthocalyx leioneurus/
+*** /Storthocalyx sordidus/
+* Sapotaceae (6 genus, 91 species)
+** Manilkara (1 species)
+*** /Manilkara dissecta/
+** Mimusops (1 species)
+*** /Mimusops elengi/
+** Pichonia (7 species)
+*** /Pichonia balansae/
+*** /Pichonia balansana/
+*** /Pichonia daenikeri/
+*** /Pichonia deplanchei/
+*** /Pichonia dubia/
+*** /Pichonia grandiflora/
+*** /Pichonia lecomtei/
+** Planchonella (24 species)
+*** /Planchonella amieuana/
+*** /Planchonella cauliflora/
+*** /Planchonella chartacea/
+*** /Planchonella cinerea/
+*** /Planchonella contermina/
+*** /Planchonella dothioensis/
+*** /Planchonella endlicheri/
+*** /Planchonella glauca/
+*** /Planchonella kaalaensis/
+*** /Planchonella kuebiniensis/
+*** /Planchonella laetevirens/
+*** /Planchonella latihila/
+*** /Planchonella lifuana/
+*** /Planchonella luteocostata/
+*** /Planchonella mandjeliana/
+*** /Planchonella microphylla/
+*** /Planchonella pinifolia/
+*** /Planchonella povilana/
+*** /Planchonella rheophytopsis/
+*** /Planchonella roseoloba/
+*** /Planchonella rufocostata/
+*** /Planchonella sphaerocarpa/
+*** /Planchonella thiensis/
+*** /Planchonella wakere/
+** Pleioluma (14 species)
+*** /Pleioluma acutifolia/
+*** /Pleioluma azou/
+*** /Pleioluma balansana/
+*** /Pleioluma baueri/
+*** /Pleioluma belepensis/
+*** /Pleioluma crebrifolia/
+*** /Pleioluma dioica/
+*** /Pleioluma lasiantha/
+*** /Pleioluma longipetiolata/
+*** /Pleioluma novocaledonica/
+*** /Pleioluma rubicunda/
+*** /Pleioluma sebertii/
+*** /Pleioluma tenuipedicellata/
+*** /Pleioluma vieillardii/
+** Pycnandra (44 species)
+*** /Pycnandra acuminata/
+*** /Pycnandra atrofusca/
+*** /Pycnandra balansae/
+*** /Pycnandra belepensis/
+*** /Pycnandra benthamii/
+*** /Pycnandra blaffartii/
+*** /Pycnandra bourailensis/
+*** /Pycnandra bracteolata/
+*** /Pycnandra caeruleilatex/
+*** /Pycnandra canaliculata/
+*** /Pycnandra carinocostata/
+*** /Pycnandra chartacea/
+*** /Pycnandra comptonii/
+*** /Pycnandra comptonioides/
+*** /Pycnandra confusa/
+*** /Pycnandra controversa/
+*** /Pycnandra cylindricarpa/
+*** /Pycnandra decandra/
+*** /Pycnandra elliptica/
+*** /Pycnandra fastuosa/
+*** /Pycnandra filipes/
+*** /Pycnandra francii/
+*** /Pycnandra glabella/
+*** /Pycnandra glaberrima/
+*** /Pycnandra gordoniifolia/
+*** /Pycnandra grandifolia/
+*** /Pycnandra griseosepala/
+*** /Pycnandra heteromera/
+*** /Pycnandra kaalaensis/
+*** /Pycnandra kouakouensis/
+*** /Pycnandra montana/
+*** /Pycnandra neocaledonica/
+*** /Pycnandra paniensis/
+*** /Pycnandra paucinervia/
+*** /Pycnandra poindimiensis/
+*** /Pycnandra pubiflora/
+*** /Pycnandra sarlinii/
+*** /Pycnandra schmidii/
+*** /Pycnandra sclerophylla/
+*** /Pycnandra sessiliflora/
+*** /Pycnandra sessilifolia/
+*** /Pycnandra vieillardii/
+*** /Pycnandra viridiflora/
+*** /Pycnandra wagapensis/
+* Scrophulariaceae (1 genus, 2 species)
+** Myoporum (2 species)
+*** /Myoporum crassifolium/
+*** /Myoporum tenuifolium/
+* Simaroubaceae (1 genus, 1 species)
+** Soulamea (1 species)
+*** /Soulamea cardioptera/
+* Solanaceae (1 genus, 1 species)
+** Duboisia (1 species)
+*** /Duboisia myoporoides/
+* Stemonuraceae (2 genus, 2 species)
+** Gastrolepis (1 species)
+*** /Gastrolepis austrocaledonica/
+** Stemonurus (1 species)
+*** /Stemonurus umbellatus/
+* Strasburgeriaceae (1 genus, 1 species)
+** Strasburgeria (1 species)
+*** /Strasburgeria robusta/
+* Surianaceae (1 genus, 1 species)
+** Suriana (1 species)
+*** /Suriana maritima/
+* Symplocaceae (1 genus, 5 species)
+** Symplocos (5 species)
+*** /Symplocos arborea/
+*** /Symplocos caerulescens/
+*** /Symplocos flavescens/
+*** /Symplocos montana/
+*** /Symplocos neocaledonica/
+* Taxaceae (1 genus, 1 species)
+** Austrotaxus (1 species)
+*** /Austrotaxus spicata/
+* Thymelaeaceae (2 genus, 6 species)
+** Lethedon (5 species)
+*** /Lethedon balansae/
+*** /Lethedon cernua/
+*** /Lethedon cordatoretusa/
+*** /Lethedon leratii/
+*** /Lethedon oblonga/
+** Solmsia (1 species)
+*** /Solmsia calophylla/
+* Trimeniaceae (1 genus, 1 species)
+** Trimenia (1 species)
+*** /Trimenia neocaledonica/
+* Urticaceae (2 genus, 2 species)
+** Cypholophus (1 species)
+*** /Cypholophus decipiens/
+** Dendrocnide (1 species)
+*** /Dendrocnide latifolia/
+* Violaceae (1 genus, 1 species)
+** Hybanthus (1 species)
+*** /Hybanthus micranthus/
+* Winteraceae (1 genus, 14 species)
+** Zygogynum (14 species)
+*** /Zygogynum acsmithii/
+*** /Zygogynum amplexicaule/
+*** /Zygogynum baillonii/
+*** /Zygogynum bicolor/
+*** /Zygogynum comptonii/
+*** /Zygogynum crassifolium/
+*** /Zygogynum cristatum/
+*** /Zygogynum mackeei/
+*** /Zygogynum oligostigma/
+*** /Zygogynum pancheri/
+*** /Zygogynum pauciflorum/
+*** /Zygogynum pomiferum/
+*** /Zygogynum tieghemii/
+*** /Zygogynum vinkii/
