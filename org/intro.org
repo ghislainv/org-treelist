@@ -2,16 +2,15 @@
 #+author: Ghislain Vieilledent
 #+date: 07/10/2025
 #+options: H:3 ^:{} toc:nil *:t num:nil date:t author:nil
-#+infojs_opt: path:./org-info.js view:overview toc:nil ltoc:nil
+# #+html_head: <meta name="color-scheme" content="light dark">
+# #+html_head: <link rel="stylesheet" href="../css/pico-main/css/pico.grey.min.css">
+#+html_head: <link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
+#+html_head: <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
+#+infojs_opt: path:../js/org-info.js view:overview toc:nil ltoc:nil
 
-This list is based on the tree species list provided by the
-[[https://www.bgci.org/resources/bgci-databases/globaltreesearch/][GlobalTreeSearch project]] coordinated by [[https://www.bgci.org/][BGCI]].
+This list is based on the tree species list provided by the [[https://www.bgci.org/resources/bgci-databases/globaltreesearch/][GlobalTreeSearch project]] coordinated by [[https://www.bgci.org/][BGCI]].
 
-GlobalTreeSearch uses the tree definition agreed on by IUCN's Global
-Tree Specialist Group (GTSG): a woody plant with usually a single stem
-growing to a height of at least two metres, or if multi-stemmed, then
-at least one vertical stem five centimetres in diameter at breast
-height.
+GlobalTreeSearch uses the tree definition agreed on by IUCN's Global Tree Specialist Group (GTSG): a woody plant with usually a single stem growing to a height of at least two metres, or if multi-stemmed, then at least one vertical stem five centimetres in diameter at breast height.
 
-In New Caledonia, the list includes a total of 1365 tree species from
-303 genus and 95 families.
+In New Caledonia, the list includes a total of 1365 tree species from 303 genus and 95 families.
+

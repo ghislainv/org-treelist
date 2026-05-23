@@ -77,7 +77,10 @@ species_genus <- gts |>
 # ==============================
 
 # Header
-header <- "#+include: intro.org\n"
+ifile <- file.path("org", "intro.org")
+fileConn <- file(here("org", "intro.org"), open="r")
+header <- readLines(fileConn)
+close(fileConn)
 
 # Make text
 n_families <- nrow(n_genus_species_family)
@@ -104,7 +107,7 @@ for (i in 1:n_families) {
 }
 
 # Write the text to the org file
-fileConn <- file(here("org", "tree-list.org"), open="w")
+fileConn <- file(here("org", "tree-list-new-caledonia.org"), open="w")
 writeLines(text, fileConn)
 close(fileConn)
 

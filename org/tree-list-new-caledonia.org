@@ -1,4 +1,13 @@
-#+include: intro.org
+#+title: New Caledonia tree species list
+#+author: Ghislain Vieilledent
+#+date: 23/05/2026
+#+setupfile: setup.org
+
+This list is based on the tree species list provided by the [[https://www.bgci.org/resources/bgci-databases/globaltreesearch/][GlobalTreeSearch project]] coordinated by [[https://www.bgci.org/][BGCI]].
+
+GlobalTreeSearch uses the tree definition agreed on by IUCN's Global Tree Specialist Group (GTSG): a woody plant with usually a single stem growing to a height of at least two metres, or if multi-stemmed, then at least one vertical stem five centimetres in diameter at breast height.
+
+In New Caledonia, the list includes a total of 1365 tree species from 303 genus and 95 families.
 
 * Acanthaceae (1 genus, 1 species)
 ** Avicennia (1 species)

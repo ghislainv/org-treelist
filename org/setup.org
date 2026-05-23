@@ -1,0 +1,6 @@
+#+options: H:3 ^:{} toc:nil *:t num:nil date:t author:nil
+# #+html_head: <meta name="color-scheme" content="light dark">
+# #+html_head: <link rel="stylesheet" href="../css/pico-main/css/pico.grey.min.css">
+#+html_head: <link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
+#+html_head: <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
+#+infojs_opt: path:../js/org-info.js view:overview toc:nil ltoc:nil
